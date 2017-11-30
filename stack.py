@@ -7,7 +7,7 @@ class EmptyStackException(Exception):
 
 class Stack(object):
     """
-    A Stack classes implemented with linked list
+    A Stack class implemented with linked list
     """
 
     def __init__(self: 'Stack') -> None:
