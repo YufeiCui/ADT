@@ -7,7 +7,7 @@ class EmptyQueueException(Exception):
 
 class Queue(object):
     """
-    A Queue classes implemented with linked list
+    A Queue class implemented with linked list
     """
 
     def __init__(self: 'Queue') -> None:
