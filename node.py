@@ -23,6 +23,9 @@ class Node(object):
     def next(self: 'Node', next_node: 'object') -> None:
         self._next = next_node
 
+    def __repr__(self: 'Node') -> str:
+        return str(self.data)
+
 
 if __name__ == '__main__':
     A = Node(1)
