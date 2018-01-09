@@ -26,4 +26,4 @@ peak(self: 'Stack') -> object
    [Queue]: <https://github.com/YufeiCui/ADT/blob/master/queue.py>
    [Stack]: <https://github.com/YufeiCui/ADT/blob/master/queue.py>
    [Nodes]: <https://github.com/YufeiCui/ADT/blob/master/node.py>
-   [CSCA48]: <http://www.utsc.utoronto.ca/~bharrington/csca48/>
+   [CSCA48]: <https://mathlab.utsc.utoronto.ca/courses/csca48/>
